@@ -1,4 +1,5 @@
 /**
+ * @author Pradeep T. <pt21388@gmail.com>
  * @namespace Bricks
  * Special thanks to Den Odell, Author: Pro JavaScript Development, Apress
  */ 
