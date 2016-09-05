@@ -1,3 +1,7 @@
+/**
+ * @namespace Bricks
+ * @thanks Den Odell, Author: Pro JavaScript Development, Apress
+ */ 
 var Bricks = {};
 
 Bricks.Observer = (function()
