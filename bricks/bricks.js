@@ -112,7 +112,9 @@ Bricks.Ajax = (function()
 
 Bricks.Date = (function()
     {
-        
+        /**
+         * @todo Add features for most widely used date formats.
+         */
     }
 )();
 
