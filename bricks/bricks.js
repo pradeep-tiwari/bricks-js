@@ -1,6 +1,6 @@
 /**
  * @namespace Bricks
- * @credits Den Odell, Author: Pro JavaScript Development, Apress
+ * Special thanks to Den Odell, Author: Pro JavaScript Development, Apress
  */ 
 var Bricks = {};
 
